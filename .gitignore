@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Generic logs
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build artifacts
+**/GNU ARM v12.2.1 - Default/*.o
+**/GNU ARM v12.2.1 - Default/*.d
+**/GNU ARM v12.2.1 - Default/*.axf
+**/GNU ARM v12.2.1 - Default/*.bin
+**/GNU ARM v12.2.1 - Default/*.hex
+**/GNU ARM v12.2.1 - Default/*.map
+**/GNU ARM v12.2.1 - Default/*.out
+**/GNU ARM v12.2.1 - Default/*.s37
+
